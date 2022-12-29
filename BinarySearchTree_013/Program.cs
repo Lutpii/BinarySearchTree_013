@@ -8,6 +8,11 @@ namespace BinarySearchTree_013
 {
     class Node
     {
+        public string info;
+        public Node leftchild;
+        public Node rightchild;
+
+        /*Constructor for the Node Class*/
     }
 
 
