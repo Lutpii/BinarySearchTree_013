@@ -20,12 +20,10 @@ namespace BinarySearchTree_013
             rightchild = r;
         }
     }
+    /*a Node class consists of three things, the information, references to the right child, and references*/
 
-
-    internal class Program
+    class BinaryTree
     {
-        static void Main(string[] args)
-        {
-        }
+        
     }
 }
