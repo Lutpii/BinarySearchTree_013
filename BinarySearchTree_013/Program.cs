@@ -13,6 +13,12 @@ namespace BinarySearchTree_013
         public Node rightchild;
 
         /*Constructor for the Node Class*/
+        public Node(string i, Node l, Node r)
+        {
+            info = i;
+            leftchild = l;
+            rightchild = r;
+        }
     }
 
 
